@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # stripe-with-next-js
 This repository showcases a robust integration of Stripe with Next.js 15 using the App Router, enabling a custom checkout experience without payment links. It's designed for projects with dynamic pricing, where product prices often change. This setup offers a seamless, adaptable approach to managing payments within a Next.js application.
 =======
@@ -38,4 +37,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 2a2b933 (Initial commit)
